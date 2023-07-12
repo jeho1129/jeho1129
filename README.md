@@ -1,7 +1,7 @@
 # 자기소개서
 ## - 광주 1반 이지호 -
 
-![이미지](\Desktop\asdf.jpg)
+![이미지](https://github.com/jeho1129/jeho1129/blob/master/asdf.jpg)
 ---
 - **신상 정보**
     - **생년월일** : 1996/11/29
