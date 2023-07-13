@@ -25,6 +25,6 @@
        1. [무국적식당](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=%EC%A0%84%EC%A3%BC+%EB%AC%B4%EA%B5%AD%EC%A0%81%EC%8B%9D%EB%8B%B9&oquery=%EB%AC%B4%EA%B5%AD%EC%A0%81%EC%8B%9D%EB%8B%B9&tqi=i6HSolp0J1sssMDAdHRssssstmK-050653) : 말 그대로 무국적 컨셉의 밥집 겸 술집입니다. 여기 분위기 좋고 음식 뭘 시켜도 다 맛있어요. 항정살구이? 이거 입에서 살살 녹습니다.
        2. [반구절점](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=%EC%A0%84%EC%A3%BC+%EB%B0%98%EA%B5%AC%EC%A0%88%EC%A0%90&oquery=%EC%A0%84%EC%A3%BC+%EB%AC%B4%EA%B5%AD%EC%A0%81%EC%8B%9D%EB%8B%B9&tqi=i6HSrwp0J1sssMACa2ZssssssZl-346099) : 여기는 한식주점이라 한식 컨셉의 안주랑 막걸리, 전통술을 파는 곳인데 술이 맛있어요. 담솔이라고 전통주 있는데 이거 시키면 솔의 눈이랑 같이 줍니다. **담솔 : 솔의 눈 = 1 : 3 비율**로 타서 순두부찌개 시켜서 같이 먹으면 진짜진짜 맛있어요. 저 솔의 눈 별로 안 좋아하는데 이거는 맛있어요!!!!!!!!!!
     4. **로아 본캐 뭐에요** : 카제로스 서버 건슬링어 키우고 있습니다.. 로아하고 계시는 분 계시면 BOYHOOD531로 친추주세요! 같이 놀아요!
-    5. **3대 몇쳐요** : 헬린이라 친구 따라 깔짝하는 수준입니다 ㅜ
+    5. **3대 몇쳐요** : 헬린이라 친구 따라 깔짝하는 수준입니다 ㅜㅜ
 
 
