@@ -1,8 +1,8 @@
 # **Profile**
-- **University**    `서강대학교 전자공학과`
 - **Birth**         `1996/11/29`
 - **TEL**           `010-3555-7275`
 - **E-MAIL**        `jeho1129@naver.com`
+- **University**    `서강대학교 전자공학과`
 - **MBTI**          `ISFJ`
 
 # **👨‍💻 Programming SKILLS**
