@@ -1,5 +1,3 @@
-<div align="center">
-
 # 데이터에서 가치를 창출하는 개발자 이지호입니다.
 
 # **😀 About Me**
@@ -106,8 +104,5 @@ TOEIC **`915`**(2024.02)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeho1129&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="Jiho's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeho1129&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-</div>
-
 
 
