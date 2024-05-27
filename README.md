@@ -3,27 +3,56 @@
 - **TEL**           `010-3555-7275`
 - **E-MAIL**        `jeho1129@naver.com`
 - **University**    `서강대학교`
-- **MBTI**          `ISFJ`
+<br></br>
 
 # **👨‍💻 Programming SKILLS**
 ## **Language**
-### **`Python`** 🟥🟥🟥🟥🟥
-  - 2년 동안 학부 과정에서 딥러닝, 머신러닝 관련 과목들을 수강하며 Pytorch, TensorFlow 등 라이브러리 사용하여 Python 활용 경험 보유
-  - Python 기반 프레임워크(FastAPI, Django)를 사용한 웹 애플리케이션 개발 경험 보유
-  - Numpy, Pandas, Matplotlib 라이브러리를 활용하여 데이터 분석 및 시각화 작업 수행 가능
-### **`JAVA`** 🟥🟥🟥🟥⬜
-  - 객체 지향 프로그래밍 원칙을 이해하고, 이를 바탕으로 유지 보수가 용이하고 확장 가능한 코드 작성 가능
-  - JAVA 기반 프레임워크(Spring)을 사용한 웹 애플리케이션 개발 경험 보유
-### **`C`** 🟥⬜⬜⬜⬜
-  - 학부 1학년 전공 기초 과목으로 수강 경험
-## **Framework, Library**
-### **`Spring Boot`** 🟥🟥🟥🟥⬜
-  - Spring Security, Spring Data JPA, JWT 등을 활용한 백엔드 시스템 개발 가능
-  - IOC 컨테이너, 의존성 주입, REST API 개발 등에 대한 깊은 이해
-### **`Django`** 🟥🟥🟥🟥⬜
-  - Django의 MVC 패턴 및 ORM을 활용한 데이터 모델링, REST API 개발 등 백엔드 시스템 개발 숙련
-### **`Pytorch`** 🟥🟥🟥🟥⬜
-  - 딥러닝 모델 설계, 훈련, 평가 활용 경험 다수 보유
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+
+## **Framework & Library**
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+
+## **Databases**
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+
+## **Infra**
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+## **Data & AI**
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+
+## **IDE**
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+## **Communication**
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<br></br>
 
 # **🎓 EXPERIENCE**
 - 2023.07 ~ 현재 : 삼성 청년 SW아카데미 10기 재학
@@ -36,29 +65,27 @@
 - 2023.12 : 삼성 청년 SW아카데미 **`1학기 프로젝트 1등`**
 
 # **👨🏻‍💻 Project Summary**
-- 2023.12 ~ 2023.12    `사용자 맞춤형 금융 상품 비교 & 추천 Application`
-  - BackEnd(Django)
-    - 회원 커스터마이징을 위한 User Model 구현
-    - 금융 상품 데이터 저장 및 조회 기능 구현
-    - 금융 상품 리뷰 기능 구현
-    - 환율 데이터 요청 및 전송
-    - 커뮤니티 기능을 위한 글, 댓글 Model 구현
-    - 사용자 리뷰 데이터 기반 금융 상품 추천 알고리즘 구현
-- 2021.07 ~ 2021.12    `Design Project`
-  - AI(Speech-To-Face Model)
-    - Deep Learning을 활용한 Kiosk 내부 음성 대화형 사용자 인터페이스 시스템 구축
-- 2021.10 ~ 2021.11    `주택 가격 데이터 분석 및 예측`
-  - Machine Learning
-    - Linear Regression 알고리즘을 이용하여 모델 구현 후, 학습을 통해 주택 가격 예측
-- 2021.10 ~ 2021.11    `Image 데이터셋 분류 모델 설계`
-  - AI
-    - Pytorch 라이브러리를 통해 CNN 기반 모델을 구현하여 96.5%의 정확도로 image를 분류하는 모델 설계
-- 2020.05 ~ 2020.06    `추천 알고리즘 모델 설계`
-  - Machine Learning 
-    - Collaborative Filtering을 이용하여 사용자의 데이터를 기반으로 사용자에게 최적화된 영화를 추천하는 알고리즘 모델 설계
 
+| Title | Introduction | Type |
+| ------------- | ------------- | ------------- |
+| <a href="">Weeting</a> | 친목 도모용 채팅 서비스 (2024.04 ~ 2024.05) | 삼성 청년 SW아카데미 2학기 자율 프로젝트 |
+| <a href="">Talkydoki</a> | 일본어 회화 학습 플랫폼 (2024.02 ~ 2024.04) | 삼성 청년 SW아카데미 2학기 특화 프로젝트 |
+| <a href="">노블리</a> | 홀로 어르신의 삶에 정서적 연결고리를 제공하여 외로움을 해소할 수 있는 AI 셋톱박스 (2023.12 ~ 2024.02) | 삼성 청년 SW아카데미 2학기 공통 프로젝트 |
+| <a href="https://github.com/jeho1129/1stProject">금융 상품 비교 & 추천 애플리케이션</a> | 사용자 맞춤형 금융 상품 비교 & 추천 애플리케이션 (2023.12 ~ 2023.12) | 삼성 청년SW아카데미 1학기 프로젝트 |
+| <a href="">디자인 프로젝트</a> | 딥러닝을 활용한 Kiosk 내부 음성 대화형 사용자 인터페이스 시스템 구축 (2021.07 ~ 2021.12) | 학부 졸업 프로젝트 |
+| <a href="https://github.com/jeho1129/housing_price_prediction_project">부동산 가격 예측 모델 구현</a> | 주택 가격 요소에 따른 부동산 가격 예측 모델 구현 (2021.10 ~ 2021.11) | 전공 과목(기계학습기초) 프로젝트 |
+| <a href="https://github.com/jeho1129/CNN">Image Dataset 분류 모델 설계</a> | Image Dataset 분류 모델 설계 (2021.10 ~ 2021.11) | 전공 과목(인공지능개론) 프로젝트 |
 
+<br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeho1129)](https://solved.ac/jeho1129/) 
+
+<br>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeho1129&rank_icon=github&show_icons=true&theme=default_repocard&hide_border=true" alt="Jiho's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeho1129&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+</div>
 
 
 
